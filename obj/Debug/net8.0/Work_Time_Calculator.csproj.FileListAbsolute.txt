@@ -1,0 +1,42 @@
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.exe
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.deps.json
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.runtimeconfig.json
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.pdb
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.AssemblyInfoInputs.cache
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.AssemblyInfo.cs
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\refint\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.pdb
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.genruntimeconfig.cache
+C:\Users\VogelsaT\Einarbeitung C#\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\ref\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.exe
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.deps.json
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.runtimeconfig.json
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.pdb
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.AssemblyInfoInputs.cache
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.AssemblyInfo.cs
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\refint\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.pdb
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.genruntimeconfig.cache
+C:\Users\VogelsaT\Tools\Work_Time_Calculator\Work_Time_Calculator\obj\Debug\net8.0\ref\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.exe
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.deps.json
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.runtimeconfig.json
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\bin\Debug\net8.0\Work_Time_Calculator.pdb
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.AssemblyInfoInputs.cache
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.AssemblyInfo.cs
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\obj\Debug\net8.0\refint\Work_Time_Calculator.dll
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.pdb
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\obj\Debug\net8.0\Work_Time_Calculator.genruntimeconfig.cache
+C:\Users\VogelsaT\Tools\time\Work_Time_Calculator\obj\Debug\net8.0\ref\Work_Time_Calculator.dll
